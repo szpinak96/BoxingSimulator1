@@ -1,0 +1,13 @@
+Begin Object Class=/Script/Engine.AnimMontage Name="Dying__2__mixamo_com_Montage"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfo Name="SceneThumbnailInfo_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfo_0"
+   End Object
+   CompositeSections(0)=(SectionName="Default",LinkedMontage=AnimMontage'"Dying__2__mixamo_com_Montage"',SegmentIndex=0,SegmentLength=4.400000,LinkedSequence=AnimSequence'"/Game/ThirdPersonBP/Blueprints/Animations/Dying__2__mixamo_com.Dying__2__mixamo_com"')
+   SlotAnimTracks(0)=(AnimTrack=(AnimSegments=((AnimReference=AnimSequence'"/Game/ThirdPersonBP/Blueprints/Animations/Dying__2__mixamo_com.Dying__2__mixamo_com"',AnimEndTime=4.400000))))
+   bEnableAutoBlendOut=False
+   SequenceLength=4.400000
+   AnimNotifyTracks(0)=(TrackName="1",TrackColor=(R=0.500000,G=0.500000,B=0.500000,A=1.000000))
+   Skeleton=Skeleton'"/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton"'
+   ThumbnailInfo=SceneThumbnailInfo'"SceneThumbnailInfo_0"'
+End Object
